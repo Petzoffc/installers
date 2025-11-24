@@ -8,9 +8,9 @@ BLUE='\033[0;34m'
 NC='\033[0m'
 
 # Configuration
-DOMAIN="DOMAIN_PANELLU"
-PLTA="ISI_PLTA"
-PLTC="ISI_PLTC"
+DOMAIN="https://kaizzy.domku.my.id"
+PLTA="ptla_Z0vIzMucUfhHZ63BtcDbNhHqmU5AdjfGtqhfALtHfnu"
+PLTC="ptlc_uXf5uxHggQJaTPMTsOP9l5kXwARC2why04PnwcemlJu"
 LOCATION="1"
 EGG_ID="15"
 THRESHOLD_CONNECTIONS=500
