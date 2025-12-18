@@ -8,9 +8,9 @@ BLUE='\033[0;34m'
 NC='\033[0m'
 
 # Configuration
-DOMAIN="https://kaiizxyytmvan.cafee.my.id"
-PLTA="ptla_o55GZuX6ah7Ej9dyxV6nJT34sTkoszRkGdkN4f19a2T"
-PLTC="ptlc_viTvy5AJNjUY6CHzt3tIQpmZXOv1sBxzSxcGYkH72iV"
+DOMAIN="https://kaiizxyy-official.cafee.my.id"
+PLTA="ptla_Xbo94ngsCJHMPpVuhMDTCeTbXjRgXH0ZIe8Jc6Pzcsa"
+PLTC="ptlc_EMYCl0SnG9Nq1s3EyxLqoVcTPLzBxvWoJJQOc05dz9a"
 LOCATION="1"
 EGG_ID="15"
 THRESHOLD_CONNECTIONS=500
