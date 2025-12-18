@@ -9,7 +9,7 @@ NC='\033[0m'
 
 # Configuration
 DOMAIN="https://kaiizxyy-official.cafee.my.id"
-PLTA="ptla_Xbo94ngsCJHMPpVuhMDTCeTbXjRgXH0ZIe8Jc6Pzcsa"
+PLTA="ptla_ecfJJDZ4VigsKOFu790ujDoxZZxE2qkRqzpn33x8a9p"
 PLTC="ptlc_EMYCl0SnG9Nq1s3EyxLqoVcTPLzBxvWoJJQOc05dz9a"
 LOCATION="1"
 EGG_ID="15"
